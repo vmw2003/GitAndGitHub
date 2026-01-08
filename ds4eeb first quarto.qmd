@@ -1,0 +1,19 @@
+---
+title: "ds4eeb first quarto"
+author: "Veronika Watkins"
+date: 2026-01-07
+format: gfm
+editor: visual
+---
+
+## Yippee
+
+## yay
+
+# slay
+
+hello i have a *quarto* **document** ***amazing***
+
+```{r}
+10+20
+```
